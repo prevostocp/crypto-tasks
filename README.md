@@ -1,2 +1,0 @@
-# crypto-tasks
-Tareas Crypto
